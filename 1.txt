@@ -1,0 +1,5 @@
+apache|ServerTokens:Prod|Prod
+apache|ServerSignature:Off|Off
+chmod|target_file/passwd:644|644
+chmod|target_file/shadow:600|600
+chmod|target_file/group:644|644
